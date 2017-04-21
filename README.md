@@ -11,5 +11,5 @@ Add Remote Path XMLTV URL: https://www.baldur.biz/ruv/ruv.xml
 
 ## What is in here
 This repo contains an M3U8 file for the [RÚV online stream](http://ruv.is/ruv)
-and a script to generate an [xmltv](wiki.xmltv.org) file based on the [schedule
+and a script to generate an [xmltv](http://wiki.xmltv.org) file based on the [schedule
 from RÚV](https://muninn.ruv.is/files/).
