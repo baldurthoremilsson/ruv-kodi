@@ -3,10 +3,10 @@ Watch RÚV in Kodi with [IPTV Simple PVR](https://github.com/kodi-pvr/pvr.iptvsi
 
     $ sudo apt install kodi-pvr-iptvsimple
 
-Go to IPTV Simple Client settings -> General
+#### Go to IPTV Simple Client settings -> General
 Add Rempote Path M3U Play List URL: https://www.baldur.biz/ruv/ruv.m3u8
 
-Go to IPTV Simple Client settings -> EPG Settings
+#### Go to IPTV Simple Client settings -> EPG Settings
 Add Remote Path XMLTV URL: https://www.baldur.biz/ruv/ruv.xml
 
 ## What is in here
