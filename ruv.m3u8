@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ruv" tvg-name="Ruv" group-name="Test Group",Ruv
+http://ruvruv-live.hls.adaptive.level3.net/ruv/ruv/index/stream5.m3u8
